@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="maven-clean-plugin-3.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../lib、jar/maven-clean-plugin-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib、jar/maven-compiler-plugin-3.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib、jar/maven-deploy-plugin-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib、jar/maven-install-plugin-2.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib、jar/maven-resources-plugin-3.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib、jar/maven-surefire-plugin-2.22.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib、jar/maven-war-plugin-3.2.2.jar!/" />
+      <root url="file://$PROJECT_DIR$/.." />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../工具包/apache-jmeter-5.2.1/docs/api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../cs/src" />
+      <root url="file://$PROJECT_DIR$/../simple-java-maven-app-master/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../simple-java-maven-app-master/src/test/java" />
+      <root url="file://$PROJECT_DIR$/.." />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/.." recursive="false" type="SOURCES" />
+  </library>
+</component>
